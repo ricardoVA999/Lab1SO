@@ -1,2 +1,3 @@
 # Lab1SO Llamadas al Sistema y Kernel
 ## Ricardo Antonio Valenzuela Avila 18762
+En  este  laboratorio  se  realizarán  ejercicios  para  reforzar  los  conceptos  de  llamadas  desistemae introducirde manera prácticael concepto de proceso. Estos ejercicios requerirán programación en C. Se  explicarán  algunas  instrucciones  y  métodos  de  trabajo  usados  con  C,  pero  se  recomienda profundizar  e  investigar  sobre  el  lenguaje  puesto  quelo  seguiremos  usando  durante  el  curso.Deberá entregar todos los archivos de código que programe (con instrucciones de compilación y ejecución si es necesario), así como un documento con las respuestas a las preguntas planteadas en cada ejercicio.
